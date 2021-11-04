@@ -1,4 +1,4 @@
-# BHT-
+# BHT - WriteUp 10 bài code thiếu nhi 
 Deadline BHT rất dễ ... trễ deadline
 
 Sau khi code xong 10 bài code thiếu nhi này mình cảm thấy mình đã đạt được 1/30 độ vippro của anh thanh niên cơ khí BK sinh năm 96 rồi :V
